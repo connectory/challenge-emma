@@ -13,7 +13,7 @@ All content you publish here will fall under [Apache 2 License](https://www.apac
 * [Bosch IoT Development Guidelines](https://inside-docupedia.bosch.com/confluence/x/VSC6Hw) (internal link)
 * [Bosch IoT Cloud Documentation](https://inside-docupedia.bosch.com/confluence/x/WzzZEw) (internal link)
 
-## Hardware-Specific Documentation
+## Hardware-Specific Resources
 * [Bosch XDK](https://www.bosch-connectivity.com/products/cross-domain/cross-domain-developement-kit/)
 * [Bosch CISS](https://www.bosch-connectivity.com/products/industry-4-0/connected-industrial-sensor-solution/)
 * [Bosch Thermotechnology Device API](https://developer.bosch.com/web/bosch-thermotechnology-device-api)
